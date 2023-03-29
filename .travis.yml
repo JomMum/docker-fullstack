@@ -22,4 +22,4 @@ after_success: # 테스트 성공 후에, 실행할 내용
 
   - docker push jw0401/docker-frontend
   - docker push jw0401/docker-backend
-  - docker push jw0401/docker-nginx
+  - docker push jw0401/docker-nginx 
